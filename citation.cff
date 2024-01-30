@@ -1,1 +1,9 @@
+cff-version: 1.0.3
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Mallick"
+    given-names: "Tiyasha"
+title: "Project Title"
+version: 1.0.0
+date-released: 2024-01-30
 
